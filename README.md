@@ -1,1 +1,1 @@
-This is Sample example login and register page
+This is Sample example for login and register page in andriod applications
